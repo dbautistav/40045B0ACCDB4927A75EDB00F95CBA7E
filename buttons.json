@@ -1,0 +1,17 @@
+{
+  "version": "v2",
+  "content": {
+    "buttons": [
+      {
+        "title": "MacBook Pro",
+        "type": "url",
+        "url": "https://www.apple.com/v/macbook-pro/t/images/overview/performance/perf_gallery_screen_photo_large_2x.jpg"
+      },
+      {
+        "title": "iPad Pro",
+        "type": "url",
+        "url": "https://www.apple.com/v/ipad-pro/s/images/shared/smart_keyboard_pencil_router__bpy1sf6vmieq_medium_2x.jpg"
+      }
+    ]
+  }
+}
