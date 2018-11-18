@@ -1,26 +1,31 @@
 {
-   "type": "cards",
-   "elements": [
+    "version": "v2",
+    "content": {
         {
-          "title": "MacBook Pro",
-          "subtitle": "More power. More performance. More pro.",
-          "image_url": "https://www.apple.com/v/macbook-pro/t/images/overview/performance/perf_gallery_screen_photo_large_2x.jpg"
-        },
-        {
-          "title": "iPad Pro",
-          "subtitle": "It’s all new, all screen, and all powerful.",
-          "image_url": "https://www.apple.com/v/ipad-pro/s/images/shared/smart_keyboard_pencil_router__bpy1sf6vmieq_medium_2x.jpg"
-        },
-        {
-          "title": "iPhone XS",
-          "subtitle": "Welcome to the big screens.",
-          "image_url": "https://www.apple.com/v/iphone-xs/d/images/overview/gigabit_lte_large_2x.jpg"
-        },
-        {
-          "title": "Apple Watch - Series 4",
-          "subtitle": "All new. For a better you.",
-          "image_url": "https://www.apple.com/v/apple-watch-series-4/c/images/compare/compare_series_4_large_2x.jpg"
+            "type": "cards",
+            "elements": [
+                {
+                    "title": "MacBook Pro",
+                    "subtitle": "More power. More performance. More pro.",
+                    "image_url": "https://www.apple.com/v/macbook-pro/t/images/overview/performance/perf_gallery_screen_photo_large_2x.jpg"
+                },
+                {
+                    "title": "iPad Pro",
+                    "subtitle": "It’s all new, all screen, and all powerful.",
+                    "image_url": "https://www.apple.com/v/ipad-pro/s/images/shared/smart_keyboard_pencil_router__bpy1sf6vmieq_medium_2x.jpg"
+                },
+                {
+                    "title": "iPhone XS",
+                    "subtitle": "Welcome to the big screens.",
+                    "image_url": "https://www.apple.com/v/iphone-xs/d/images/overview/gigabit_lte_large_2x.jpg"
+                },
+                {
+                    "title": "Apple Watch - Series 4",
+                    "subtitle": "All new. For a better you.",
+                    "image_url": "https://www.apple.com/v/apple-watch-series-4/c/images/compare/compare_series_4_large_2x.jpg"
+                }
+            ],
+            "image_aspect_ratio": "horizontal"
         }
-   ],
-   "image_aspect_ratio": "horizontal"
+    }
 }
